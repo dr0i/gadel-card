@@ -6,8 +6,6 @@ export function rnd(min, max, not) {
   return res;
 }
 export function fightOutcome(leftProp, rightProp) {
-    console.log("leftProp:" +leftProp, "rightProp:" + rightProp)
-
     if (leftProp >= rightProp) {
       return "gewinnt";}
   else return "verliert";

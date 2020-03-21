@@ -47,7 +47,6 @@ var Deck = document.getElementById("deck");
 Deck.innerHTML += "1. Runde: </br>";
 
 var propRnd = helper.rnd(0, 2);
-console.log("propRnd:" +propRnd)
 var fightOutcome = helper.fightOutcome(leftCharacter.properties[propRnd], rightCharacter.properties[propRnd]);
 Deck.innerHTML +=
   '<span style="color: yellow" >'+ leftCharacter.name + 
