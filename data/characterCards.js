@@ -1,6 +1,6 @@
 export default {
   type: "characters",
-  fields: ["name", "phi", "strength", "networksize", "image"],
+  fields: ["Phi", "Stärke", "Netzwerkgröße", "image"],
   characters: [
     {
       name: "Tejak",
