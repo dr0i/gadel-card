@@ -1,3 +1,6 @@
+# gadel-card
+Card game based on the famous https://gadel.org/
+
 # Licence
 
 - code is licensed under Apache license 2.0 (apache-2.0)
