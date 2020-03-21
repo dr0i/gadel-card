@@ -1,6 +1,6 @@
 export default {
   type: "characters",
-  fields: ["Phi", "Stärke", "Netzwerkgröße"],
+  fields: ["Phi", "Stärke", "Einfluss"],
   characters: [
     {
       name: "Tejak",
@@ -16,12 +16,16 @@ export default {
       name: "Dunkelmagier",
       image: "images/dunkelmagier.jpg",
       properties: [15, 8, 12]
-    }
-    ,
+    },
     {
       name: "Alchios (Blau 2)",
       image: "images/Alchios_blau2.jpg",
       properties: [17, 7, 15]
+    },
+    {
+      name: "LIRa",
+      image: "images/LIRa.jpg",
+      properties: [17, 8, 19]
     }
   ]
 };
