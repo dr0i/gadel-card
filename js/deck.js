@@ -1,5 +1,5 @@
-import * as data from "/gadel-card/data/characterCards.js";
-import * as helper from "/gadel-card/js/helper.js";
+import * as data from "../data/characterCards.js";
+import * as helper from "./helper.js";
 //characterCards left
 var DeckLeftCharacter = helper.rnd(0, 2);
 var leftCharacter = data.default.characters[DeckLeftCharacter];
