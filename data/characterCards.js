@@ -40,7 +40,7 @@ export default {
     {
       name: "Wache",
       image: "images/wache.jpg",
-      properties: [12, 2, 5]
+      properties: [2, 12, 5]
     }
 
   ]
