@@ -5,7 +5,7 @@ export default {
     {
       name: "Tejak",
       image: "images/tejak_kampf.jpg",
-      properties: [11, 11, 8]
+      properties: [11, 11, 13]
     },
     {
       name: "Kirchenkrieger",
@@ -26,6 +26,22 @@ export default {
       name: "LIRa",
       image: "images/LIRa.jpg",
       properties: [17, 8, 19]
+    },
+    {
+      name: "Asker",
+      image: "images/asker.jpg",
+      properties: [15, 7, 14]
+    },
+    {
+      name: "Händler",
+      image: "images/haendler.jpg",
+      properties: [4, 6, 11]
+    },
+    {
+      name: "Wache",
+      image: "images/wache.jpg",
+      properties: [12, 2, 5]
     }
+
   ]
 };
