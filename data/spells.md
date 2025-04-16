@@ -17,18 +17,18 @@ geometry: paperwidth=22in
 | kurzname | kategorie | ingredienz | spruch | menge | bemerkung |
 |----------|-----------|------------|--------|-------|-----------|
 | geräuschillusion | 👁 | mo-sei | quaak dahl Chain | 1g |
-| rauchseil | 🔧 | mo-sein | tauti pantir WIlgam | 3g | nasses holz entzünde. 3g mo-sei in den händen verreiben. der rauch erstarrt bis in eine höhe von etwa 10m |
-| rauchseil stäker| 🔧| mo-sei | toil pantir buch WIlgam | | siehe rauchseil | 3g |
+| rauchseil | 🔧 | mo-sei | tauti pantir WIlgam | 3g | nasses holz entzünde. 3g mo-sei in den händen verreiben. der rauch erstarrt bis in eine höhe von etwa 10m |
+| rauchseil stärker| 🔧| mo-sei | toil pantir buch WIlgam | | siehe rauchseil | 3g |
 | kleidung reinigen |🤷‍♀️ | mo-sei | tin dahl Hiin | 1g |
-| unsichtbarkeit | 👁 | me-in + inga | shellay buhl Meschgot | 1g me-in + 1g inga |
-| telekinese | 🍄 | ? | tantee defeal den tede diefet | ? |
+| unsichtbarkeit | 👁 | me-in + inga | shellaiy buhl Meschgot | 1g me-in + 1g inga |
+| telekinese | 🍄 | ? | tauti defeal den tede diefet | ? |
 | magisches geschoss | 🗡 | ta-in | tweed pantir WIlgam | 3g |
 | meditation |  🤷‍♀️| ba-en | tin dahl wurde Gesgady | 1g | 1g in die hand nehmen und spruch sprechen. für andere personen sollten 3g verwendet werden.
-| schlaf | ? | bo-ne | tin dahl Gesgady | 1g | für sich selbst genügt 1g, für andere personen 3g
-| heilen leichter wunden (hlw) | ❤️ | scha-in | tanti pantir Arkatim | 1g | die wunde muss beim sprechen berührt werden ( 1g bis 6g wirksam). 1 gramm scha-in in die schalen. gibt bis zu +10. bei mehr scha-in pro gramm entsprechend mehr ++.
-| unter wasser atmen | 🍄 | ba-en | tanti dahl Fidelio | 3g | >=3g . kann auch auf andere angewendet werden.
-| pflanzenfessel | 🌱 | sa-mei | tanti dahl Janti | 1g | wirkt nur in der nähe fundras. pflanzen müssen unmittelbar vorhanden sein.
-| wärmeblick | 👁  | me-in | tanti dahl Ding | 1g | auch in tiefster dunkelheit wird die aktuelle position warmer, also lebendiger wesen, sichtbar
+| schlaf |  🤷‍♀️ | bo-ne | tin dahl Gesgady | 1g | für sich selbst genügt 1g, für andere personen 3g
+| heilen leichter wunden (hlw) | ❤️ | scha-in | tauti pantir Arkatim | 1g | die wunde muss beim sprechen berührt werden ( 1g bis 6g wirksam). 1 gramm scha-in in die schalen. gibt bis zu +10. bei mehr scha-in pro gramm entsprechend mehr ++.
+| unter wasser atmen | 🍄 | ba-en | tauti dahl Fidelio | 3g | >=3g . kann auch auf andere angewendet werden.
+| pflanzenfessel | 🌱 | sa-mei | tauti dahl Janti | 1g | wirkt nur in der nähe fundras. pflanzen müssen unmittelbar vorhanden sein.
+| wärmeblick | 👁  | me-in | tauti dahl Ding | 1g | auch in tiefster dunkelheit wird die aktuelle position warmer, also lebendiger wesen, sichtbar
 | fliegendes auge | 👁 | bo-ne | toil dahl holft Ding | 1g | sich selbst nicht bewegen, es bewegt sich mit. 1g reicht für die nähere umgebung, sonst mehr verwenden.
 | erster schutzzauber | 🛡️ | me-in + bo-ne | tin pantir adem Irenas | 1g bo-ne + 2g me-in | kann gut der eigenen farbe angepasst werden. in die ersten beiden schalen 1g bo-ne und 2g me-in verwenden
 | ogerstärke | 🍄 | scha-in | toil dahl hadem Aljehe | 1g | 1g ist ausreichend um sich selbst oder eine andere person ogerstärke (+4) zu verleihen. gut für verschlossene türen und hindernisse, aber auch im kampf.
@@ -54,3 +54,19 @@ geometry: paperwidth=22in
 | dunkelheit | 🤷‍♀️ | ba-en | shellaiy buhl splar TAun | 1g | das licht eines gesamten raumes kan hiermit von Taun, dem Dämon der Dunkleheit, aufgesaugt werden. nur sei vorsichtig, wenn du die farbe erhöhst, es könnte sein, dass TAun mehr als nur licht saugt, wenn du nicht dein schwert besitzt.
 | erkennen von krankheiten | ❤️ | me-in | tin pantir adem IRenas | 1g | 1g  me-in dürfte genügen, um die üblichen krankheiten zu erkennen und zu lokalisieren. für die üblen todesbringer wie cholera und pest benötigtst du schon mehr me-in. dieser spruch heilt nicht, sondern lokalisierst die krankheit auf die befallenen körperteile.
 
+## die farben der macht
+|farbe|stufe_1|stufe_2|stufe_3|stufe_4|stufe_5|
+|--|--|--|--|--|--|--|
+|türkis|tin|tauti|toil|quaak|tweed|
+|rot|shellaiy|sushimi|talsein|sivtim|kanigaa|
+|orange|shiub|masta| |korxit| |
+|gelb||||||
+|weiß||||||
+|-|-|-|-|-|-|
+|grün|qwai|soqui|mate|pantak|mrothf|
+|blau|liberalis|qwazziii||nasraftem||
+|violet||waakh||||
+|schwarz||||||
+
+## titel höherer wesen
+dahl;pantir;
