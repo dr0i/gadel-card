@@ -6,5 +6,4 @@ cat spells_tmp.html |
 	sed 's#<th>kategorie</th>#<th><button>kategorie<span aria-hidden="true"></span></button></th>#g'|
 	sed 's#<th>ingredienz</th>#<th><button>ingredienz<span aria-hidden="true"></span></button></th>#g'|
 	sed 's#<th>spruch</th>#<th><button>spruch<span aria-hidden="true"></span></button></th>#g'|
-	sed 's#<table>#<div class="table-wrap"><table class="sortable" id="myTable">#g' > spells.html
- # xmllint --format spells.html  > spells_schoen.html
+	sed 's#<table>#<div class="table-wrap"><table class="sortable" id="myTable">#g' > spells
